@@ -8,41 +8,19 @@
 	booktitle = {Proceedings for {EAMT} 2017 {User} {Studies} and {Project}/{Product} {Descriptions}},
 	author = {Beyer, Anne and Macketanz, Vivien and Burchardt, Aljoscha and Williams, Philip},
 	year = {2017},
-	pages = {41--46},
-	file = {Beyer et al. - Can Out-of-the-box NMT Beat a Domain-trained Moses.pdf:/Users/anne/ownCloud/Zotero/storage/LSQ2LGKL/Beyer et al. - Can Out-of-the-box NMT Beat a Domain-trained Moses.pdf:application/pdf}
+	pages = {41--46}
 }
 
-@inproceedings{beyer_measuring_2020,
-	title = {Measuring {Domain} {Similarity} {Based} on {Embedding} {Spaces}},
-	booktitle = {To be published in {Proceedings} of {LREC}},
-	author = {Beyer, Anne and Kauermann, Göran and Schütze, Hinrich},
-	year = {2020}
+@InProceedings{beyer-kauermann-schtze:2020:LREC,
+  author    = {Beyer, Anne  and  Kauermann, Göran  and  Schütze, Hinrich},
+  title     = {Embedding Space Correlation as a Measure of Domain Similarity},
+  booktitle      = {Proceedings of The 12th Language Resources and Evaluation Conference},
+  month          = {May},
+  year           = {2020},
+  address        = {Marseille, France},
+  publisher      = {European Language Resources Association},
+  pages     = {2431--2439},
+  abstract  = {Prior work has determined domain similarity using text-based features of a corpus. However, when using pre-trained word embeddings, the underlying text corpus might not be accessible anymore. Therefore, we propose the CCA measure, a new measure of domain similarity based directly on the dimension-wise correlations between corresponding embedding spaces. Our results suggest that an inherent notion of domain can be captured this way, as we are able to reproduce our findings for different domain comparisons for English, German, Spanish and Czech as well as in cross-lingual comparisons. We further find a threshold at which the CCA measure indicates that two corpora come from the same domain in a monolingual setting by applying permutation tests. By evaluating the usability of the CCA measure in a domain adaptation application, we also show that it can be used to determine which corpora are more similar to each other in a cross-domain sentiment detection task.},
+  url       = {https://www.aclweb.org/anthology/2020.lrec-1.296.pdf}
 }
 
-@inproceedings{zarries_know_2019,
-	address = {Florence, Italy},
-	title = {Know {What} {You} {Don}'t {Know}: {Modeling} a {Pragmatic} {Speaker} that {Refers} to {Objects} of {Unknown} {Categories}},
-	url = {https://www.aclweb.org/anthology/P19-1063},
-	abstract = {Zero-shot learning in Language \& Vision is the task of correctly labelling (or naming) objects of novel categories. Another strand of work in L\&V aims at pragmatically informative rather than “correct” object descriptions, e.g. in reference games. We combine these lines of research and model zero-shot reference games, where a speaker needs to successfully refer to a novel object in an image. Inspired by models of “rational speech acts”, we extend a neural generator to become a pragmatic speaker reasoning about uncertain object categories. As a result of this reasoning, the generator produces fewer nouns and names of distractor categories as compared to a literal speaker. We show that this conversational strategy for dealing with novel objects often improves communicative success, in terms of resolution accuracy of an automatic listener.},
-	booktitle = {Proceedings of the 57th {Annual} {Meeting} of the {Association} for {Computational} {Linguistics}},
-	publisher = {Association for Computational Linguistics},
-	author = {Zarrieß, Sina and Schlangen, David},
-	month = jul,
-	year = {2019},
-	pages = {654--659}
-}
-
-@article{galetzka_corpus_2020,
-	title = {A {Corpus} of {Controlled} {Opinionated} and {Knowledgeable} {Movie} {Discussions} for {Training} {Neural} {Conversation} {Models}},
-	url = {http://arxiv.org/abs/2003.13342},
-	abstract = {Fully data driven Chatbots for non-goal oriented dialogues are known to suffer from inconsistent behaviour across their turns, stemming from a general difﬁculty in controlling parameters like their assumed background personality and knowledge of facts. One reason for this is the relative lack of labeled data from which personality consistency and fact usage could be learned together with dialogue behaviour. To address this, we introduce a new labeled dialogue dataset in the domain of movie discussions, where every dialogue is based on pre-speciﬁed facts and opinions. We thoroughly validate the collected dialogue for adherence of the participants to their given fact and opinion proﬁle, and ﬁnd that the general quality in this respect is high. This process also gives us an additional layer of annotation that is potentially useful for training models. We introduce as a baseline an end-to-end trained self-attention decoder model trained on this data and show that it is able to generate opinionated responses that are judged to be natural and knowledgeable and show attentiveness.},
-	language = {en},
-	urldate = {2020-05-05},
-	journal = {arXiv:2003.13342 [cs]},
-	author = {Galetzka, Fabian and Eneh, Chukwuemeka U. and Schlangen, David},
-	month = mar,
-	year = {2020},
-	note = {arXiv: 2003.13342},
-	keywords = {Computer Science - Computation and Language},
-	annote = {Comment: 8 Pages, 8 Figures, 5 Tables. Accepted paper for LREC 2020 conference}
-}
