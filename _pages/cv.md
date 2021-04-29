@@ -56,6 +56,11 @@ Experience
 
 Teaching
 --------------------
+Summer 2021
+:   **Introduction to Programming with Python (in German, together with [Brielen Madureira](https://www.ling.uni-potsdam.de/~madureiralasota/))**
+
+    B.Sc, Uni Potsdam
+    
 Summer 2020
 :   **Formal Languages and Automata (in German)**
 
