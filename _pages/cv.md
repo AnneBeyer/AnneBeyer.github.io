@@ -81,5 +81,5 @@ Other Interests
 --------------------
 
  * I'm a language nerd. I took courses (and forgot most of it all too fast again due to a lack of time and practice) in Maori, Spanish and Czech and am living in the illusion of some day reviving that knowledge by spending more time in the respective countries. 
- * I have been part of several choirs, currently it's the Berlin based jazz choir [jazzomat](https://www.jazzomat-berlin.de/) (currently looking for male vocalists!)
+ * I have been part of several choirs, currently it's the Berlin based jazz choir [jazzomat](https://www.jazzomat-berlin.de/) (always looking for male vocalists!)
  * I love good food, ideally prepared and consumed with friends (not in the cannibalistic interpretation).
