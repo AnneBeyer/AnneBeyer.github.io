@@ -4,7 +4,7 @@ author_profile: true
 ---
 
 <br/><br/>
-I'm a PhD student in the [colabPotsdam](http://clp.ling.uni-potsdam.de/), supervised by David Schlangen. My work is part of the [SFB 1287](https://www.sfb1287.uni-potsdam.de/en/overview/), which tries to identfy the limits of variability in language from various angles. In our project, we interpret these limits as constraints imposed upon a next utterance by the preceeding context and study these different notions of coherence in more detail. I currently focus on the evaluation and analysis of large pre-trained language and dialogue models in terms of how these notions are (or are not yet) encoded and how they could be used to improve these models. 
+I'm a researcher in the [colabPotsdam](http://clp.ling.uni-potsdam.de/). My work is part of the [SFB 1287](https://www.sfb1287.uni-potsdam.de/en/overview/), which tries to identfy the limits of variability in language from various angles. In our project, we interpret these limits as constraints imposed upon a next utterance by the preceeding context and study these different notions of coherence in more detail. I currently focus on the evaluation and analysis of large pre-trained language and dialogue models in terms of how these notions are (or are not yet) encoded and how they could be used to improve these models. 
 
 I have always been fascinated by languages and thanks to a series of lucky coincidences, I ended up studying Computational Linguistics at the University of Potsdam.<br/>
 After finishing my Bachelor, I gained some work experience in a translation company figuring out how machine translation research can be applied to the "real world" in order to actually assist human translators. <br/>
