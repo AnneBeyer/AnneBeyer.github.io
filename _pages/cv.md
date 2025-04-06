@@ -3,40 +3,20 @@ title: "Curriculum vitae"
 permalink: /cv/
 ---
 
-
-Education
----------
-
-since 2019
-:   **PhD student, Computational Linguistics**; Uni Potsdam
-
-    *Thesis project: "Using neural networks to explore the limits of variablity in conversation"*
-
-2017-2020
-:   **MSc, Computational Linguistics**; LMU Munich
-
-    *Thesis: "Measuring Domain Similarity Based on Embedding Spaces" (Accepted as long paper at LREC)*
-
-2010-2015
-:   **BSc, Computational Linguistics**; Uni Potsdam
-
-    *Thesis: "Automatic Quality Estimation for an Industrial Machine Translation Workflow"*
-
-2008-2010
-:   **Anglistics and Spanish Philology**; Uni Potsdam
-
-    *Here, I soon realized that my interests are more of a general linguistic nature*
-
 Experience
 ----------
+since 2019
+:   **Researcher**; Uni Potsdam
+
+    *[SFB 1287](https://www.sfb1287.uni-potsdam.de/en/project-b06/), Project: Predicting the limits of variability in discourse using neural models*
 
 2018-2019
-:   **Research Assistant**; LMU Munich
+:   **Researcher**; LMU Munich
 
     *I worked in the research area Representation Learning for Natural Languages within the [Munich Center for Machine Learning](https://mcml.ai/areas_of_competence/#representation-learning), which led to my Master Thesis*
 
 2015-2018
-:   **Machine Translation Team Lead**; beo GmbH
+:   **Machine Translation Engineer**; beo GmbH
 
     *My responsibilities included* 
     * maintenance and improvement of the in-house machine translation workflow
@@ -54,9 +34,28 @@ Experience
 
     *I coordinated appointments and carried out data collection experiments with children for language acquisition studies*
 
+
+Education
+---------
+2017-2020
+:   **MSc, Computational Linguistics**; LMU Munich
+
+    *Thesis: "Measuring Domain Similarity Based on Embedding Spaces" (Accepted as long paper at LREC)*
+
+2010-2015
+:   **BSc, Computational Linguistics**; Uni Potsdam
+
+    *Thesis: "Automatic Quality Estimation for an Industrial Machine Translation Workflow"*
+
+2008-2010
+:   **Anglistics and Spanish Philology**; Uni Potsdam
+
+    *Here, I soon realized that my interests are more of a general linguistic nature*
+
+
 Teaching
 --------------------
-Summer 2021
+Summer 2021 and 2022
 :   **Introduction to Programming with Python (in German, together with [Brielen Madureira](https://www.ling.uni-potsdam.de/~madureiralasota/))**
 
     B.Sc, Uni Potsdam
