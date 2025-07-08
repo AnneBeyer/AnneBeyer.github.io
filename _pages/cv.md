@@ -5,7 +5,8 @@ permalink: /cv/
 
 Experience
 ----------
-2019 - 2025
+
+2019-2025
 :   **Research Associate**; Uni Potsdam
 
     *My work was centered around the question of how to use neural networks to explore the limits of variability in context, and took the shape of researching, writing papers, programming experiments and frameworks, teaching, reviewing, presenting my work, organising and giving workshops, and managing and supervising students*
@@ -16,7 +17,7 @@ Experience
     *I worked in the research area Representation Learning for Natural Languages within the [Munich Center for Machine Learning](https://mcml.ai/areas_of_competence/#representation-learning), which led to my Master Thesis*
 
 2015-2018
-:   **Machine Translation Team Lead**; beo GmbH
+:   **Machine Translation Engineer**; beo GmbH
 
     *My responsibilities included* 
     * maintenance and improvement of the in-house machine translation workflow
@@ -34,10 +35,9 @@ Experience
 
     *I coordinated appointments and carried out data collection experiments with children for language acquisition studies*
 
-
 Teaching
 --------------------
-Summer 2021
+Summer 2021 and 2022
 :   **Introduction to Programming with Python (in German, together with [Brielen Madureira](https://www.ling.uni-potsdam.de/~madureiralasota/))**
 
     B.Sc, Uni Potsdam

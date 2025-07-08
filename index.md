@@ -4,6 +4,7 @@ author_profile: true
 ---
 
 <br/><br/>
+
 I am an experienced Python developer with a passion for language applications. I enjoy creating tools that facilitate processes, be it a machine translation workflow for a language
 provider or refactoring a framework for scientific evaluation of large language models. In this,
 my strong communication skills are a valuable asset in understanding stakeholders needs
