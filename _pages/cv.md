@@ -3,35 +3,15 @@ title: "Curriculum vitae"
 permalink: /cv/
 ---
 
-
-Education
----------
-
-since 2019
-:   **PhD student, Computational Linguistics**; Uni Potsdam
-
-    *Thesis project: "Using neural networks to explore the limits of variablity in conversation"*
-
-2017-2020
-:   **MSc, Computational Linguistics**; LMU Munich
-
-    *Thesis: "Measuring Domain Similarity Based on Embedding Spaces" (Accepted as long paper at LREC)*
-
-2010-2015
-:   **BSc, Computational Linguistics**; Uni Potsdam
-
-    *Thesis: "Automatic Quality Estimation for an Industrial Machine Translation Workflow"*
-
-2008-2010
-:   **Anglistics and Spanish Philology**; Uni Potsdam
-
-    *Here, I soon realized that my interests are more of a general linguistic nature*
-
 Experience
 ----------
+2019 - 2025
+:   **Research Associate**; Uni Potsdam
+
+    *My work was centered around the question of how to use neural networks to explore the limits of variability in context, and took the shape of researching, writing papers, programming experiments and frameworks, teaching, reviewing, presenting my work, organising and giving workshops, and managing and supervising students*
 
 2018-2019
-:   **Research Assistant**; LMU Munich
+:   **Research Associate**; LMU Munich
 
     *I worked in the research area Representation Learning for Natural Languages within the [Munich Center for Machine Learning](https://mcml.ai/areas_of_competence/#representation-learning), which led to my Master Thesis*
 
@@ -54,6 +34,7 @@ Experience
 
     *I coordinated appointments and carried out data collection experiments with children for language acquisition studies*
 
+
 Teaching
 --------------------
 Summer 2021
@@ -75,6 +56,25 @@ Summer 2012
 :   Teaching Assistant for **Formal Languages and Automata (in German)** 
 
     B.Sc, Uni Potsdam
+
+
+Education
+---------
+
+2017-2020
+:   **MSc, Computational Linguistics**; LMU Munich
+
+    *Thesis: "Measuring Domain Similarity Based on Embedding Spaces" (Accepted as long paper at LREC)*
+
+2010-2015
+:   **BSc, Computational Linguistics**; Uni Potsdam
+
+    *Thesis: "Automatic Quality Estimation for an Industrial Machine Translation Workflow"*
+
+2008-2010
+:   **Anglistics and Spanish Philology**; Uni Potsdam
+
+    *Here, I soon realized that my interests are more of a general linguistic nature*
 
 
 Other Interests
