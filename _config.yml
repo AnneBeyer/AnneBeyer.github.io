@@ -46,7 +46,7 @@ plugins:
 author:
   name   : Anne Beyer
   avatar : /assets/images/anne.png
-  bio    : `Python software developer with a passion for languages`<br/><br/>
+  bio    : \texttt{Python software developer with a passion for languages}<br/><br/>
   email: anne.beyer[at]mailbox.org
   github: AnneBeyer
   linkedin: anne-beyer
