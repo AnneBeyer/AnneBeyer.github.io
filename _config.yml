@@ -10,7 +10,7 @@
 
 # Theme Settings
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "dark", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
@@ -50,7 +50,6 @@ author:
   email: anne.beyer[at]mailbox.org
   github: AnneBeyer
   linkedin: anne-beyer
-  X: _an_bey_
 
 include:
   - _pages
