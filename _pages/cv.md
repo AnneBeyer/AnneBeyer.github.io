@@ -2,24 +2,30 @@
 title: "Curriculum vitae"
 permalink: /cv/
 ---
-
-Experience
 ----------
-
+Experience
 2019-2025
 :   **Research Associate**; Uni Potsdam
 
-    *My work was centered around the question of how to use neural networks to explore the limits of variability in context, and took the shape of researching, writing papers, programming experiments and frameworks, teaching, reviewing, presenting my work, organising and giving workshops, and managing and supervising students*
+    *My work was centered around evaluating (large) language models and took the shape of* 
+    * researching 
+    * programming experiments and frameworks (see [Projects](https://annebeyer.github.io/projects/))
+    * writing papers (see [Publications](https://annebeyer.github.io/publications/))
+    * reviewing papers
+    * presenting my work
+    * teaching (Python Programming and Formal Languages)
+    * organising and giving workshops
+    * managing and supervising students
 
 2018-2019
 :   **Research Associate**; LMU Munich
 
-    *I worked in the research area Representation Learning for Natural Languages within the [Munich Center for Machine Learning](https://mcml.ai/areas_of_competence/#representation-learning), which led to my Master Thesis*
+    *I worked in the research area Representation Learning for Natural Languages within the [Munich Center for Machine Learning](https://mcml.ai/research/areab/#b2--natural-language-processing), which led to my [master thesis publication](https://aclanthology.org/2020.lrec-1.296/)*
 
 2015-2018
 :   **Machine Translation Engineer**; beo GmbH
 
-    *My responsibilities included* 
+    *I was responsible for all things related to Machine Tranlsation at this language service provider, specifically* 
     * maintenance and improvement of the in-house machine translation workflow
     * integration of MT into the existing translation workflows
     * communication with translators, project managers and the IT department
@@ -35,8 +41,8 @@ Experience
 
     *I coordinated appointments and carried out data collection experiments with children for language acquisition studies*
 
+----------
 Teaching
---------------------
 Summer 2021 and 2022
 :   **Introduction to Programming with Python (in German, together with [Brielen Madureira](https://www.ling.uni-potsdam.de/~madureiralasota/))**
 
@@ -58,9 +64,8 @@ Summer 2012
     B.Sc, Uni Potsdam
 
 
+----------
 Education
----------
-
 2017-2020
 :   **MSc, Computational Linguistics**; LMU Munich
 
@@ -76,10 +81,8 @@ Education
 
     *Here, I soon realized that my interests are more of a general linguistic nature*
 
-
+----------
 Other Interests
---------------------
-
  * I'm a language nerd. I took courses (and forgot most of it all too fast again due to a lack of time and practice) in Maori, Spanish and Czech and am living in the illusion of some day reviving that knowledge by spending more time in the respective countries. 
  * I have been part of several choirs, currently it's the Berlin based jazz choir [jazzomat](https://www.jazzomat-berlin.de/) (always looking for male vocalists!)
  * I love good food, ideally prepared and consumed with friends (not in the cannibalistic interpretation).
