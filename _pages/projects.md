@@ -31,4 +31,4 @@ permalink: /projects/
 **Date:** August 2022<br/>
 **Summary:** Together with some colleuagues I designed and gave a workshop on Deep Learning for linguists within the [CRC 1287](https://www.sfb1287.uni-potsdam.de/en/)<br/>
 **My role in it:** I set up and guided participants through a jupyter notebook for using models from the [huggingface](https://huggingface.co/) library (as it was in August 2022)<br/>
-**Links:** [Notebook](AnneBeyer.github.io/assets/Using_pre-trained_models_with_Python.ipynb)
+**Links:** [Notebook](https://annebeyer.github.io/assets/Using_pre-trained_models_with_Python.ipynb)
