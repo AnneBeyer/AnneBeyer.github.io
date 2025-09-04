@@ -20,7 +20,7 @@ Experience
 2018-2019
 :   **Research Associate**; LMU Munich
 
-    *I worked in the research area Representation Learning for Natural Languages within the [Munich Center for Machine Learning](https://mcml.ai/research/areab/#b2--natural-language-processing), which led to my [master thesis publication](https://aclanthology.org/2020.lrec-1.296/)*
+    *I worked in the research area Representation Learning for Natural Languages within the [Munich Center for Machine Learning][mcml], which led to my [master thesis publication](https://aclanthology.org/2020.lrec-1.296/)*
 
 2015-2018
 :   **Machine Translation Engineer**; beo GmbH
