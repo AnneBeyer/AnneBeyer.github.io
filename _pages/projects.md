@@ -8,7 +8,7 @@ permalink: /projects/
 **Date:** 2025-2026  
 **Summary:** [scikit-learn](https://scikit-learn.org) is a Python package for all sorts of machine learning applications.  
 **My role in it: Starting October 2025, I will assist the scikit-learn maintainers with the general maintenance of the project and the development of new features.**  
-**Links:** tbd
+**Links:** [My contributions](https://github.com/scikit-learn/scikit-learn/commits?author=AnneBeyer)
 
 -----
 **Project:** Refactoring the _clembench_ framework  
